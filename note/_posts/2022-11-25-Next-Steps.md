@@ -25,6 +25,10 @@ https://www.sciencedirect.com/science/article/pii/S0168874X22001287)
 https://link.springer.com/article/10.1007/s00466-022-02199-2)
 3. Mathematics in ROM
 
+## Composite Materials and related constitutive equations
+[A non-orthogonal material model of woven composites in the preforming process](
+https://www.sciencedirect.com/science/article/pii/S0007850617301129)
+
 ## Scientific Computing and Matrix Analysis and Computation
 [Scientific Computing: An Introductory Survey](https://e6.ijs.si/~roman/files/tmp/M.Heath-SComputing/scientific-computing-michael-t-heath.pdf)
 , by Michael T. Heath.
