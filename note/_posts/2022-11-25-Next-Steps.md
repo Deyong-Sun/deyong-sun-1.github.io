@@ -21,7 +21,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S0376042103001131)
 * [A reduced order model approach for finite element analysis of cellular structures](
 https://www.sciencedirect.com/science/article/pii/S0168874X22001287)
 3. ROM with multiscale analysis
-[Concurrent n-scale modeling for non-orthogonal woven composite](
+* [Concurrent n-scale modeling for non-orthogonal woven composite](
 https://link.springer.com/article/10.1007/s00466-022-02199-2)
 3. Mathematics in ROM
 
