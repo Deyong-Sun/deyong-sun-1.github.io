@@ -29,6 +29,10 @@ https://link.springer.com/article/10.1007/s00466-022-02199-2)
 [A non-orthogonal material model of woven composites in the preforming process](
 https://www.sciencedirect.com/science/article/pii/S0007850617301129)
 
+## Using Abaqus with Python
+* Contact Problem with Abaqus
+* Subroutine using Python
+* Python definition functions
 ## Scientific Computing and Matrix Analysis and Computation
 [Scientific Computing: An Introductory Survey](https://e6.ijs.si/~roman/files/tmp/M.Heath-SComputing/scientific-computing-michael-t-heath.pdf)
 , by Michael T. Heath.
