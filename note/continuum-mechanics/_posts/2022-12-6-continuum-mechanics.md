@@ -10,6 +10,9 @@ sitemap: false
 ---
 
 ## 1. Kinematics
-1.1 Deformation gradient
+* Deformation gradient
 
-$$ \mathbf{F}(\mathbf{X},t)=\Delta \gramma = \frac{\partial}{\partial \mathbf{X}} \gramma(\mathbf{X},t)  $$
+$$ \mathbf{F}(\mathbf{X},t)=\Delta \chi = \frac{\partial}{\partial \mathbf{X}} \chi(\mathbf{X},t)  $$
+
+* Determinant of $\mathnf{F}$
+$$ J \equiv det\(\frac{\partial \chi}{\\partial \mathbf{X}\)} =det \mathbf{F}\neq 0 $$
