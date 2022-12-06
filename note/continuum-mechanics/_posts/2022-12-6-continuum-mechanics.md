@@ -15,4 +15,4 @@ sitemap: false
 $$ \mathbf{F}(\mathbf{X},t)=\Delta \chi = \frac{\partial}{\partial \mathbf{X}} \chi(\mathbf{X},t)  $$
 
 * Determinant of $\mathnf{F}$
-$$ J \equiv det\(\frac{\partial \chi}{\\partial \mathbf{X}\)} =det \mathbf{F}\neq 0 $$
+$$ J \equiv det(\frac{\partial \chi}{\partial \mathbf{X})} =det \mathbf{F}\neq 0 $$
