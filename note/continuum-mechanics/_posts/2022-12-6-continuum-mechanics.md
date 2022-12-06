@@ -11,4 +11,5 @@ sitemap: false
 
 ## 1. Kinematics
 1.1 Deformation gradient
-$$ \mathbf{F} $$
+
+$$ \mathbf{F}(\mathbf{X},t)=\Delta \gramma = \frac{\partial}{\partial \mathbf{X}} \gramma(\mathbf{X},t)  $$
