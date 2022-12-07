@@ -9,6 +9,8 @@ image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Hyperelastic.sv
 sitemap: false
 ---
 
+Some learning material.
+
 ## [Hyperelastic material](https://en.wikipedia.org/wiki/Hyperelastic_material)
 
 ## [Neo-Hookean solid](https://en.wikipedia.org/wiki/Neo-Hookean_solid)
