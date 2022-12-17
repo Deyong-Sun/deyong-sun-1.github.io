@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hyper-viscoelasticity
-categories: [note, continuum-mechanics]
+categories: [general-note, continuum-mechanics]
 comments: true
 description: >
   [Picture](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Hyperelastic.svg/330px-Hyperelastic.svg.png)
