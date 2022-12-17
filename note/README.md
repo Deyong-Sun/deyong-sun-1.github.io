@@ -13,3 +13,7 @@ its applications for composite materials, including shape optimization, viscoela
 
 0. this unordered seed list will be replaced by toc as unordered list
 {:toc}
+
+1. [Continuum mechanics]{:.heading.flip-title}
+
+[Continuum mechanics]:../_featured_categories/Continuum-Mechanics.md
