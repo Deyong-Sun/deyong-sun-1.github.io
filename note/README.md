@@ -2,7 +2,7 @@
 layout: page
 title: Note
 description: >
-  Here are my current and prevous research projects.
+  Here are my current and previous research projects.
 hide_description: true
 sitemap: false
 permalink: /note/
