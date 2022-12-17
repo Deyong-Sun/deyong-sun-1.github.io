@@ -3,7 +3,7 @@ layout: page
 title: Note
 description: >
   List of all tags and categories in study note.
-hide_description: true
+hide_description: false
 sitemap: false
 permalink: /note/
 ---
