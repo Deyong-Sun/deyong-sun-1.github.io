@@ -2,7 +2,7 @@
 layout: page
 title: Note
 description: >
-  Here are my current and previous research projects.
+  List of all tags and categories in study note.
 hide_description: true
 sitemap: false
 permalink: /note/
@@ -16,3 +16,4 @@ its applications for composite materials, including shape optimization, viscoela
 
 1. [General notes](https://deyong-sun.github.io/general-note/)
 2. [Continuum mechanics](https://deyong-sun.github.io/continuum-mechanics/)
+3. [Machine learning](https://deyong-sun.github.io/machine-learning/)
