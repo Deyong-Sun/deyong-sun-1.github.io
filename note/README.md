@@ -8,12 +8,11 @@ sitemap: false
 permalink: /note/
 ---
 
-Here are my current and prevous research projects. During my MSc experience, the research focus on Isogeometric Boundary Element Method (IGABEM) and 
+Here are my current and previous research projects. During my MSc experience, the research focus on Isogeometric Boundary Element Method (IGABEM) and 
 its applications for composite materials, including shape optimization, viscoelastic analysis, elastic energy increment.
 
 0. this unordered seed list will be replaced by toc as unordered list
 {:toc}
 
-1. [Continuum mechanics]{:.heading.flip-title}
-
-[Continuum mechanics]:https://deyong-sun.github.io/continuum-mechanics/
+1. [General notes](https://deyong-sun.github.io/general-note/)
+2. [Continuum mechanics](https://deyong-sun.github.io/continuum-mechanics/)
