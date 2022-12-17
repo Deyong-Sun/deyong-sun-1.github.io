@@ -16,4 +16,4 @@ its applications for composite materials, including shape optimization, viscoela
 
 1. [Continuum mechanics]{:.heading.flip-title}
 
-[Continuum mechanics]:../_featured_categories/Continuum-Mechanics.md
+[Continuum mechanics]:https://deyong-sun.github.io/continuum-mechanics/
