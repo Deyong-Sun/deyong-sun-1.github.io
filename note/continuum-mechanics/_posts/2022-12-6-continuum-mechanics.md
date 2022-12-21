@@ -9,6 +9,8 @@ image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Continuum_body.
 sitemap: false
 ---
 
+Some learning material.
+
 ## 1. Kinematics
 * Deformation gradient
 
