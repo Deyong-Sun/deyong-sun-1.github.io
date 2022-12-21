@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Continuum Mechanics
-categories: [note, continuum-mechanics]
+categories: [general-note, continuum-mechanics]
 comments: true
 description: >
   [Picture](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Continuum_body.svg/200px-Continuum_body.svg.png)
