@@ -20,7 +20,8 @@ $$ J \equiv det(\frac{\partial \chi}{\partial \mathbf{X}}) =det \mathbf{F}\neq 0
 * Polar decomposition theorem
 
 $$ \mathbf{F}=\mathbf{RU}=\mathbf{VR}$$
-where F is a symmetric matrix, R is a unitary matrix, and U and V are the right and left polar decompositions of F.
+where F is a symmetric matrix, R is a unitary matrix (rotation/reflection), and U and V (stretch) are the right and left polar
+decompositions of F.
 
 * The right and left Cauchy-Green (deformation) tensors C and B are defined by
 
