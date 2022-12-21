@@ -16,3 +16,15 @@ $$ \mathbf{F}(\mathbf{X},t)=\Delta \chi = \frac{\partial}{\partial \mathbf{X}} \
 
 * Determinant of $\mathnf{F}$
 $$ J \equiv det(\frac{\partial \chi}{\partial \mathbf{X}}) =det \mathbf{F}\neq 0 $$
+
+* Polar decomposition theorem
+
+$$ \mathbf{F}=\mathbf{RU}=\mathbf{VR}$$
+where F is a symmetric matrix, R is a unitary matrix, and U and V are the right and left polar decompositions of F.
+
+* The right and left Cauchy-Green (deformation) tensors C and B are defined by
+
+$$ \mathbf{C=U^2=F^{T}F}$$
+$$ \mathbf{B=V^2=FF^{T}}$$
+where C and B are symmetric and positive definite.
+
